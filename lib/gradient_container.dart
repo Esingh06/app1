@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'centered_text.dart';
 
 class GradientContainer extends StatelessWidget {
 
